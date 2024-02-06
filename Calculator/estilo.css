@@ -1,0 +1,49 @@
+body{
+    background-color:#010E12; 
+}
+
+#result{
+    text-align:center;
+    font-size:35pt;
+    width:287px;
+    height:60px;
+    border-radius:15px;
+}
+
+div{
+    padding-top:25px;
+    padding-bottom:20px;
+    margin-top:200px;
+    margin-left:505px;
+    margin-right:505px;
+    background-color:#05313d ;
+    border-radius:15px;
+    border-color:white;
+    border-style:solid;
+    width:20%;
+}
+
+button{
+    width:70px;
+    height:70px;
+    font-size:30pt;
+    background-color:#02888E;
+    border-radius:10px;
+    margin-top:15px;
+}
+
+.botaoope{
+    font-size:30pt;
+    background-color:white;
+}
+
+#botaoigual{
+    font-size:30pt;
+    background-color:forestgreen;
+    width:287px;
+}
+
+#botaoclear{
+    font-size:30pt;
+    background-color:#CC8400;
+}
